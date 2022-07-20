@@ -1,4 +1,4 @@
-# Mentoria TonCode
+# Mentoria TonCode ![logo ton code](./img/logo.png)
 A mentoria TonCode foi pensada com intuito de ajudar as pessoas para que possam ingressar na carreira de desenvolvimento, sabendo que hoje em dia a demanda no mercado é extremamente alta e poucas são as pessoas que estão se preparando para esse fluxo tão emergente. Por tanto, com muito carinho e dedicação, nos propusemos a encarar esse desafio, arregaçando as mangas para formar um time de amigos mais que irmãos a se qualificarem a esse mercado futuro.
 Um bjo a todo e bons estudos - Ton Marcondes
 
@@ -25,16 +25,17 @@ Node Js
 Design Thinking
 
 ### Participantes do programa
-Nome e-Mail
-Ana Lu analuizafantinfan00@hotmail.com 
-André andredelend@gmail.com 
-Carlinha carlalopes_@live.com 
-Gabi gabriella.sala00@yahoo.com 
-Kaio kaioguilhermedeoliveira@gmail.com 
-Pedro Henrique  
-Rebeca  
-Renan  
-Ro rosangelasarachisilva@gmail.com 
-Victor desenhagamer5005@gmail.com 
+|Nome |e-Mail|
+|---|---|
+|Ana Lu |analuizafantinfan00@hotmail.com|
+|André |andredelend@gmail.com| 
+|Carlinha |carlalopes_@live.com| 
+|Gabi |gabriella.sala00@yahoo.com| 
+|Kaio |kaioguilhermedeoliveira@gmail.com| 
+|Pedro Henrique| |
+|Rebeca| |
+|Renan| | 
+|Ro |rosangelasarachisilva@gmail.com| 
+|Victor |desenhagamer5005@gmail.com| 
 
 ![Modelo](img/modelo.png)
