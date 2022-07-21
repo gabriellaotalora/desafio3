@@ -14,6 +14,15 @@ Se você não souber por onde está caminhando, dificilmente chegará a seu dest
 >Roadmap, como o nome sugere, é uma espécie de mapa, uma poderosa ferramenta visual e descritiva que apontará como será o produto, projeto ou a formação a cada período de sua evolução. Essa “bússola gerencial” alinhará todos os stakeholders (interessados no projeto) em torno dos mesmos passos sequenciais rumo à construção integral do produto ou conhecimento. Deixará todos os envolvidos cientes do processo de evolução e quais variáveis envolvem esse caminho.
 
 ### Mapa
+![html5](./img/html.png)
+![css3](./img/css.png)
+![git](./img/git.png)
+![java script](./img/javascript.png)
+![github](./img/github.png)
+![react](./img/react.png)
+![boodstrap](./img/bootstrap.png)
+![node](./img/node-js.png)
+
 História
 HTML
 CSS
