@@ -30,10 +30,10 @@ Se você não souber por onde está caminhando, dificilmente chegará a seu dest
 - [X] HTML
 - [X] CSS
 - [X] Git
-- [X] Lógica de programação
-- [X] Javascript
-- [X] React
-- [X] React Native
+- [ ] Lógica de programação
+- [ ] Javascript
+- [ ] React
+- [ ] React Native
 
 ### Extras
 * Bootstrap
