@@ -26,14 +26,14 @@ Se você não souber por onde está caminhando, dificilmente chegará a seu dest
 ![node](./img/node-js.png)
 
 
-História
-HTML
-CSS
-Git
-Lógica de programação
-Javascript
-React
-React Native
+- [ ] História 
+- [ ] HTML
+- [ ] CSS
+- [ ] Git
+- [ ] Lógica de programação
+- [ ] Javascript
+- [ ] React
+- [ ] React Native
 
 ### Extras
 Bootstrap
