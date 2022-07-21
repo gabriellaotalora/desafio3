@@ -36,9 +36,9 @@ Se você não souber por onde está caminhando, dificilmente chegará a seu dest
 - [ ] React Native
 
 ### Extras
-Bootstrap
-Node Js
-Design Thinking
+* Bootstrap
+* Node Js
+* Design Thinking
 
 ### Participantes do programa
 |Nome |e-Mail|
