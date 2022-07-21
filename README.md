@@ -53,5 +53,3 @@ Se você não souber por onde está caminhando, dificilmente chegará a seu dest
 |Renan| | 
 |Ro |rosangelasarachisilva@gmail.com| 
 |Victor |desenhagamer5005@gmail.com| 
-
-![Modelo](img/modelo.png)
